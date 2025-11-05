@@ -73,8 +73,7 @@ It uses the publicly available dataset [**kavsakdata**](https://www.kaggle.com/d
 
 ### 👨‍💻 Authors
 
-- **Kutay Ertürk** — Dataset Creator  
-- **[Your Name]** — Model Design, Implementation, and Evaluation  
+- **Kutay Ertürk**, **Furkan Altınışık**, **Yusuf Karakaya**
 
 ---
 
